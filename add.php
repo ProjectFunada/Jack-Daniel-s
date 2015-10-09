@@ -13,5 +13,6 @@ $c -> user_add($name,$password,$mail);
 
 //船田
 //1
+//2
 
 header("Location: sign_up_ok.php");
