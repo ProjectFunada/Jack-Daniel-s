@@ -22,3 +22,10 @@ $c -> user_add($name,$password,$mail);
 
 
 header("Location: sign_up_ok.php");
+
+
+
+
+
+
+
