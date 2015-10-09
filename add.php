@@ -15,3 +15,10 @@ $c -> user_add($name,$password,$mail);
 //1
 
 header("Location: sign_up_ok.php");
+
+
+
+
+
+
+
