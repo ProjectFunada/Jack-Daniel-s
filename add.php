@@ -11,6 +11,6 @@ require_once("DBAdapter.class.php");
 $c = new DBAdapter();
 $c -> user_add($name,$password,$mail);
 
-//船田が新規機能を開発
+//船田
 
 header("Location: sign_up_ok.php");
